@@ -16,7 +16,7 @@ function Login(){
           <img src={lawimag} alt="Law Statue" className="law-image" />
           <div className="overlay-text">
             <h1>LAW CONNECT</h1>
-            <p>Legal Help, Right <br/>from Your Phone</p>
+          <p className='para-text'>Legal Help, Right <br/>from Your Phone</p>
             <button className="signup-btn">SIGN UP</button>
           </div>
         </div>
