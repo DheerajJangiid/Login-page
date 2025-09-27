@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lowlogin-page/static/css/main.b9f452ca.css",
+    "main.js": "/lowlogin-page/static/js/main.bf5e2f2a.js",
+    "static/js/453.ba1ecb3f.chunk.js": "/lowlogin-page/static/js/453.ba1ecb3f.chunk.js",
+    "static/media/img01.png": "/lowlogin-page/static/media/img01.075c60b7d7d9c7994367.png",
+    "static/media/img02.png": "/lowlogin-page/static/media/img02.179d788fcb8aee40964b.png",
+    "static/media/img03.png": "/lowlogin-page/static/media/img03.c30fc0b55c5165d28965.png",
+    "static/media/law-image.jpg": "/lowlogin-page/static/media/law-image.265513b4f0b5c0af1983.jpg",
+    "static/media/logo.svg": "/lowlogin-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lowlogin-page/index.html",
+    "main.b9f452ca.css.map": "/lowlogin-page/static/css/main.b9f452ca.css.map",
+    "main.bf5e2f2a.js.map": "/lowlogin-page/static/js/main.bf5e2f2a.js.map",
+    "453.ba1ecb3f.chunk.js.map": "/lowlogin-page/static/js/453.ba1ecb3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9f452ca.css",
+    "static/js/main.bf5e2f2a.js"
+  ]
+}
